@@ -104,4 +104,3 @@ The witness generator assigns synthetic balances and trades and computes every c
 * Client verification: single-core time of Algorithm 3 (receipt hashes, trace commitment, asset sponge, leaf hash, and the depth-28 path).
 * Universal audit: multi-core time of Algorithm 5 over the public ledger, which recomputes `Root_T` and the grand product `Pi_public`.
 * `Maximum resident set size`: the peak memory of each scenario, reported by GNU `time -v`.
-# csmt
